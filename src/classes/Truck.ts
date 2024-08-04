@@ -28,8 +28,8 @@ class Truck extends Vehicle implements AbleToTow {
     year: number,
     weight: number,
     topSpeed: number,
-    wheels: Wheel[]
-    towingCapacity: number;
+    wheels: Wheel[],
+    towingCapacity: number,
   ) {
  
     super();

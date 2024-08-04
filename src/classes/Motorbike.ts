@@ -82,10 +82,11 @@ class Motorbike extends Vehicle{
     );
   }
 
-
-
   // TODO: Implement the wheelie method
     // TODO: The method should log the message "Motorbike [make] [model] is doing a wheelie!"
+wheelie(): void {
+  console.log(`Mortorbike ${this.make} ${this.model} is doing a wheelie!`);
+}
 
 }
 
