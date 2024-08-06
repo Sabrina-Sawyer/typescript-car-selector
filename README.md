@@ -37,3 +37,4 @@ This project is licensed under the MIT license. For more information, please vis
 
 ## Questions
 If you have any questions, you can find me on GitHub: (https://github.com/Sabrina-Sawyer). Repository found on GitHub: (https://github.com/Sabrina-Sawyer/typescript-car-selector).
+Video demo: https://drive.google.com/file/d/1z0RD66FXc_nHOO4xRb_-U8kHef_TtHn6/view?usp=sharing
